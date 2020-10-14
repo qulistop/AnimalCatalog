@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AnimalCatalog</string>
+
+    <string-array name="animal_titles">
+        <item>Fishes</item>
+        <item>Amphibians</item>
+        <item>Reptiles</item>
+        <item>Birds</item>
+        <item>Mammals</item>
+    </string-array>
+
+    <string-array name="animal_info">
+        <item>A group of cold-blooded vertebrates that breathe with gills rather than lungs, live in water, and generally lay eggs, although some bear their young alive</item>
+        <item>A group of cold-blooded animals which can live on land or in water and who breathes with gills when young and with lungs as an adult.</item>
+        <item>A group of cold-blooded animals which have skins covered with small hard plates called scales and lay eggs.</item>
+        <item>A group of warm-blooded vertebrates distinguished by their feathers and their two legs and two wings.</item>
+        <item>A group of warm-blooded animals that is distinguished by the possession of hair or fur, females that secrete milk for the nourishment of the young, and (typically) the birth of live young.</item>
+    </string-array>
+
+    <string-array name="animal_youtube">
+        <item>https://www.youtube.com/watch?v=HQdiSMUZEDA</item>
+        <item>https://www.youtube.com/watch?v=HQdiSMUZEDA</item>
+        <item>https://www.youtube.com/watch?v=HQdiSMUZEDA</item>
+        <item>https://www.youtube.com/watch?v=HQdiSMUZEDA</item>
+        <item>https://www.youtube.com/watch?v=HQdiSMUZEDA</item>
+    </string-array>
+
+    <string-array name="animal_icon">
+        <item>mammals</item>
+        <item>mammals</item>
+        <item>mammals</item>
+        <item>mammals</item>
+        <item>mammals</item>
+    </string-array>
+
+    <string-array name="animal_video">
+        <item>mvideo1</item>
+        <item>mvideo1</item>
+        <item>mvideo1</item>
+        <item>mvideo1</item>
+        <item>mvideo1</item>
+    </string-array>
+</resources>
